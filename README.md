@@ -117,7 +117,7 @@ The model returns a churn probability:
 
 Feel free to connect:
 	•	GitHub: nvdpsingh
-	•	LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/navdeep-singh-398494b3/)
+	•	LinkedIn: [Navdeep Singh](https://www.linkedin.com/in/navdeep-singh-398494b3/)
 	•	Email: navdeepsinghdhangar@gmail.com
 
 ⸻
