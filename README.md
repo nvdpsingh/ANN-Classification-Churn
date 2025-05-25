@@ -12,7 +12,7 @@ This is a **deep learning-based web app** built using **Streamlit** to predict w
 
 ## 🚀 Live Demo
 
-👉 [Click here to open the app]([https://your-streamlit-app-link-here](https://ann-classification-churn-2potsfwfqdeouow5otkm3z.streamlit.app/))
+👉 [Click here to open the app]([https://your-streamlit-app-link-here](https://ann-classification-churn-2potsfwfqdeouow5otkm3z.streamlit.app/)])
 
 ---
 
